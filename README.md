@@ -14,7 +14,7 @@ echo "# githow" >> README.md
 - end on cmds
 
 git pull to synch changes on other comp
-[root@localhost githow]# git pull
+/*[root@localhost githow]# git pull
 remote: Counting objects: 3, done.
 remote: Compressing objects: 100% (2/2), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
@@ -24,6 +24,6 @@ From github.com:petoz/githow
 Updating c88a1ca..00f2091
 Fast-forward
  README.md |   14 ++++++++++++++
- 1 files changed, 14 insertions(+), 0 deletions(-)
+ 1 files changed, 14 insertions(+), 0 deletions(-)*/
 
 
